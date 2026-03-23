@@ -1,0 +1,1 @@
+# n8n-Auto-Segment-retail-customers-by-purchase-behavior-with-CRM-and-Google-Sheets
