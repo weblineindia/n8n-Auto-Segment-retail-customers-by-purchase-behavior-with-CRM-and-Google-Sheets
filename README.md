@@ -33,7 +33,7 @@ This workflow is ideal for:
 ## Prerequisites
 
 To use this workflow, you need:
-- An active n8n instance (self-hosted or cloud)
+- An active [n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi) (self-hosted or cloud)
 - A source system that can send webhook events (WooCommerce, Shopify, or CRM)
 - Customer and order data including order count, lifetime spend and last order date
 - Access to a CRM or email platform API
